@@ -1,0 +1,3 @@
+rootProject.name = 'outing-service'
+include 'outing-service-api'
+
